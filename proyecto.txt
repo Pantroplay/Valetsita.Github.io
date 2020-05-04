@@ -1,2 +1,3 @@
-Valetsita se trata de una aventura de una pastelera que  descubrira su verdadero valor ante una horda 
-malvados enemigos de fuego que trataran de conquistar el mundo entero.
+Valetsita se trata de una aventura de una pastelera que tras la destruccion de su aldea tendra que 
+descubrira su verdadero valor ante una horda malvados enemigos de fuego que trataran de conquistar 
+el mundo entero. 
